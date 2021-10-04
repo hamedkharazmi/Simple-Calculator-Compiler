@@ -1,4 +1,4 @@
-**Plus_Minus_Mul_Div Grammer**
+**Plus_Minus_Mul_Div Grammer:**
 
 S → E </br>
 E → E+T </br>
